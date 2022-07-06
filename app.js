@@ -1,9 +1,11 @@
-import { API } from "./js/API.js";
+// import { API } from "./js/API.js";
 
-let call = document.getElementById("call-api");
+// let call = document.getElementById("call-api");
 
-const api = new API();
+// const api = new API();
 
-call.addEventListener('click', (event) => {
-    api.hello();
-});
+// call.addEventListener('click', (event) => {
+//     api.hello();
+// });
+
+
